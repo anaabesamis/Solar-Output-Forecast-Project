@@ -1,4 +1,4 @@
-# Solar-Output-Forecast-Project
+# Photovoltaic-Output-Prediction-Project
 
 By: Ana Abesamis ana.abesamis@ryerson.ca <br>
 Supervisor: Dr. Tamer Abdou tamer.abdou@ryerson.ca <br>
